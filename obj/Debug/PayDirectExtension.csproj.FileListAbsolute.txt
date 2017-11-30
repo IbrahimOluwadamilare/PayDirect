@@ -1,0 +1,5 @@
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\PayDirectExtension.dll
+C:\Program Files\Microsoft Forefront Identity Manager\2010\Synchronization Service\Extensions\PayDirectExtension.pdb
+C:\Support Store\Code Repo\PayDirectExtension\obj\Debug\PayDirectExtension.dll
+C:\Support Store\Code Repo\PayDirectExtension\obj\Debug\PayDirectExtension.pdb
+C:\Support Store\Code Repo\PayDirectExtension\obj\Debug\PayDirectExtension.csprojResolveAssemblyReference.cache
